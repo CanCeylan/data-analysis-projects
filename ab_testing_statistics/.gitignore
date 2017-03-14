@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-data
-=======
+
 data
 ./data
 /data
->>>>>>> master
-=======
-data
-./data
-/data
->>>>>>> 2ea5a8e27f95c3ca80b26f7161bc1e038b2f9dda
+*.csv
